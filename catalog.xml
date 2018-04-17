@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://ws.docencia.ces.siani.es/a05/WSFactorial/WSFactorial?" uri="src/conf/xml-resources/web-service-references/WSFactorial_/wsdl/ws.docencia.ces.siani.es/a05/WSFactorial/WSFactorial.xml"/>
+    <system systemId="http://ws.docencia.ces.siani.es/a05/WSFactorial/WSFactorial?wsdl" uri="src/conf/xml-resources/web-service-references/WSFactorial/wsdl/ws.docencia.ces.siani.es/a05/WSFactorial/WSFactorial.wsdl"/>
+    <system systemId="http://ws.docencia.ces.siani.es/a05/WSFactorial/WSFactorial?xsd=1" uri="src/conf/xml-resources/web-service-references/WSFactorial/wsdl/ws.docencia.ces.siani.es/a05/WSFactorial/WSFactorial.xsd_1.xsd"/>
+</catalog>

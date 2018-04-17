@@ -1,0 +1,26 @@
+<html>
+<head><title>
+Web Services
+</title></head>
+<body>
+<h1>Web Services</h1>
+<table width='100%' border='1'>
+<tr>
+<td>
+Endpoint
+</td>
+<td>
+Information
+</td>
+</tr>
+<tr>
+<td>
+<table border="0"><tr><td>Service Name:</td><td>{http://org/}WSFactorial</td></tr><tr><td>Port Name:</td><td>{http://org/}WSFactorialPort</td></tr></table>
+</td>
+<td>
+<table border="0"><tr><td>Address:</td><td>http://ws.docencia.ces.siani.es/a05/WSFactorial/WSFactorial</td></tr><tr><td>WSDL:</td><td><a href="http://ws.docencia.ces.siani.es/a05/WSFactorial/WSFactorial?wsdl">http://ws.docencia.ces.siani.es/a05/WSFactorial/WSFactorial?wsdl</a></td></tr><tr><td>Implementation class:</td><td>org.WSFactorial</td></tr></table>
+</td>
+</tr>
+</table>
+</body>
+</html>
